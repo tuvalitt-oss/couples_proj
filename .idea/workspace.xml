@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59aa7a4f-792e-455c-98b1-ac95eb04327b" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Couples_Project/consts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Couples_Project/screen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Couples_Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Couples_Project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Couples_Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Couples_Project/screen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Couples_Project/screen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Couples_Project" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="31192939-7171-48e5-b26f-0fd3b65db331" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -78,8 +77,43 @@
       <option name="project" value="LOCAL‎" />
       <updated>1756027635054</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎-00003" summary="new">
+      <option name="closed" value="true" />
+      <created>1756028317660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1756028317660</updated>
+    </task>
+    <task id="LOCAL‎-00004" summary="new">
+      <option name="closed" value="true" />
+      <created>1756028395121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1756028395121</updated>
+    </task>
+    <task id="LOCAL‎-00005" summary="new">
+      <option name="closed" value="true" />
+      <created>1756031352933</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1756031352933</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
